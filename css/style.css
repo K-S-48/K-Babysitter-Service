@@ -70,7 +70,7 @@ header a {
   cursor: pointer;
 }
 .hero {
-  background-image: url("/img/kids-exploring-nature-stockcake.jpg");
+  background-image: url("../img/kids-exploring-nature-stockcake.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   height: 100vh;
